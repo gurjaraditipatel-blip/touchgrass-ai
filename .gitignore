@@ -7,3 +7,6 @@ __pycache__/
 .streamlit/secrets.toml
 .DS_Store
 Thumbs.db
+app-backup.py
+appbackeup1.py
+appbackup2.py

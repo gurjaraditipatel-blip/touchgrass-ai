@@ -74,9 +74,9 @@ Users choose their available time, environment, difficulty, and interests. Pytho
 
 The project uses local inference instead of requiring a hosted AI API for adventure generation. Its code can be inspected and extended by the community. After installation and model download, the core generation flow may work offline; this should be verified on the target computer.
 
-## Demo
+## Screenshots
 
-Screenshots and a demo video will be added here after testing.
+![TouchGrass AI app](screenshots/home.png)
 
 ## Limitations
 
